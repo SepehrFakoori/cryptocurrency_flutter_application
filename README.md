@@ -12,11 +12,11 @@ cryptocurrency_flutter_application is a project designed for crypto currency pri
 <br />
 <div>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/loading_screen.png" alt="Loading Screen" width="250">
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/loading_screen.png" alt="Loading Screen" width="180">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/crypto_screen.png" alt="Crypto List Screen" width="250">  
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/crypto_screen.png" alt="Crypto List Screen" width="180">  
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/searching.png" alt="Searching" width="250">
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/searching.png" alt="Searching" width="180">
 </div>
 <br />
 
