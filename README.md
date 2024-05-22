@@ -12,11 +12,11 @@ cryptocurrency_flutter_application is a project designed for crypto currency pri
 <br />
 <div>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/loading_screen.png" alt="Loading Screen" width="330">
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/loading_screen.png" alt="Loading Screen" width="250">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/crypto_screen.png" alt="Crypto List Screen" width="320">  
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/crypto_screen.png" alt="Crypto List Screen" width="250">  
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/searching.png" alt="Searching" width="320">
+  <img src="https://github.com/SepehrFakoori/cryptocurrency_flutter_application/blob/52a75d3b24b6698e491f121d3aff8ebb9a1a3562/assets/images/searching.png" alt="Searching" width="250">
 </div>
 <br />
 
@@ -43,4 +43,4 @@ I welcome contributions to cryptocurrency_flutter_application. If you would like
 
 5. Submit a pull request to the main repository.
 
-Thank you for choosing tic_tac_toe_application! If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/sepehrfakoori/cryptocurrency_flutter_application/issues). We look forward to your feedback and collaboration.
+Thank you for choosing cryptocurrency_flutter_application! If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/sepehrfakoori/cryptocurrency_flutter_application/issues). We look forward to your feedback and collaboration.
